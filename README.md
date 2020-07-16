@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![My Discord server](https://img.shields.io/discord/682364074905960509)](https://discord.com/invite/tV22Kvj)
 <!--
 **NMW03/NMW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
