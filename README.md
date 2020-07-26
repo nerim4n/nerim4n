@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/nmw03_?style=social)](https://twitter.com/nmw03_)
 
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=NMW03&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=NMW03&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NMW03/NMW03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
