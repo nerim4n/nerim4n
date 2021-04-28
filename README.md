@@ -1,9 +1,4 @@
 ![Views](https://komarev.com/ghpvc/?username=NMW03&style=flat-square&color=ff69b4)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/534099893979971584?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/534099893979971584)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/534099893979971584)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/534099893979971584)](https://dev.discordprofiles.me/openspotify/190916650143318016)
-
 Backend Developer from Baku, <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555554.svg"> Azerbaijan
 
 <a href="https://twitter.com/nmw03_" target="_blank">
